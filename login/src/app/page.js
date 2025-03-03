@@ -5,8 +5,10 @@ import Form from "next/form";
 export default function Home() {
   return (
 
+
     <center>
     <div className={styles.form}>
+      
 
 <Form>
       <h1>Login Form</h1>
@@ -28,8 +30,11 @@ export default function Home() {
       </table>
       
 
-    
-      <button type="submit" className={styles.btn}>Submit</button>
+      <a href= "/main">
+      <h3 className={styles.btn}>Submit</h3>
+      </a>
+      
+        
     </Form>
 
     </div>

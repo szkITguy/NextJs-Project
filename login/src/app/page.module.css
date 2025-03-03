@@ -117,17 +117,19 @@ a.secondary {
 }
 
 .btn{
+  width:50%;
   padding: 10px;
-  border-color: blueviolet;
-  background-color: transparent;
+  background-color: blueviolet;
   border-radius: 10px;
 
 }
 
 .btn:hover{
-  background-color: blueviolet;
+  background-color: blue;
 
 }
+
+
 
 
 
