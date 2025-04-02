@@ -109,7 +109,9 @@ a.secondary {
 }
 
 .form{
-  background-color:skyblue;
+  margin-top: 50px;
+  background-color:white;
+  border: solid;
   width: 30%;
   padding: 20px;
   border-radius: 20px;

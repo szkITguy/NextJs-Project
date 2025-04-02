@@ -3,3 +3,17 @@
     background:  #3b49e7;
 
 }
+
+.collapsestyle:hover{
+    background: #4d5ced;
+    border-radius: 10px;
+    
+}
+
+.borderstyle{
+    border-radius: 0 0 30px 30px;
+}
+
+.borderstyleslider{
+    border-radius: 0 0 0 30px ;
+}
